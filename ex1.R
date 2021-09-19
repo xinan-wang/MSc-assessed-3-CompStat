@@ -1,5 +1,5 @@
 library(readr)
-dvis <- read_csv("D:/ѧϰ/MSc/Practicals/CompStats-Week1-TT21/dvis.csv")
+dvis <- read_csv("D:/MSc/Practicals/CompStats-Week1-TT21/dvis.csv")
 
 glm <- glm(docvis~1+age+hhninc+female+hhkids+educyrs+addins,
            data=dvis, family=poisson())

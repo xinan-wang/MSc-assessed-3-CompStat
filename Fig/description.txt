@@ -1,1 +1,0 @@
-This folder contains the diagnostic plots I produced doing the exercises.

@@ -1,5 +1,5 @@
 library(readr)
-dat.infl <- read_csv("D:/ѧϰ/MSc/Practicals/CompStats-Week1-TT21/infl.csv")
+dat.infl <- read_csv("D:/MSc/Practicals/CompStats-Week1-TT21/infl.csv")
 
 inflFR<-dat.infl$inflFR
 year<-dat.infl$year
